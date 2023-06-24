@@ -1,0 +1,4 @@
+﻿  CIODpraktika1-2.cpp
+C:\Users\yulya\MyProjects\CIODpraktika1-2\CIODpraktika1-2\CIODpraktika1-2.cpp(51): warning C4715: StVector<float>::pop: значение возвращается не при всех путях выполнения
+C:\Users\yulya\MyProjects\CIODpraktika1-2\CIODpraktika1-2\CIODpraktika1-2.cpp(325): warning C4715: addInStack: значение возвращается не при всех путях выполнения
+  CIODpraktika1-2.vcxproj -> C:\Users\yulya\MyProjects\CIODpraktika1-2\x64\Debug\CIODpraktika1-2.exe
